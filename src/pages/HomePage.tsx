@@ -8,7 +8,7 @@ import SortSelector from '../components/SortSelector'
 const HomePage = () => {
   return (
     <>
-    return <Grid templateAreas={{
+    <Grid templateAreas={{
     base: `"main"`,
     lg: `"aside main"`, //> 1024
 
